@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Jihad Mouabbad 👋 🚀
+# Jihad Mouabbad
 
-### 4th-Year Software Engineering Student 🇲🇦
-**Focusing on Artificial Intelligence, Cybersecurity & Full-Stack Systems**
+### 4th-Year Software Engineering Student
+**Specializing in Artificial Intelligence, Cybersecurity & Full-Stack Systems**
 
 <p align="center">
   <a href="https://linktr.ee/jihadmouabbad" target="_blank">
@@ -27,20 +27,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **4th-Year Software Engineering Student** (Master 1 level / Cycle Ingénieur).
-- 🧠 **Dual Track Focus**: Passionate about **Artificial Intelligence & Data Science** (GenAI, Multi-Agent Systems, MLOps) and **Cybersecurity & Networks** (Cyberdefense, Ethical Hacking, Cryptography).
-- 🛠️ Solid background in computer science fundamentals: algorithms, operating systems, networking protocols, system architecture, and object-oriented design.
-- 💻 Built scalable full-stack web platforms, desktop business software, real-time social platforms, and AI-powered management tools.
-- 🎯 Actively seeking **engineering internship opportunities** to contribute to cutting-edge projects and collaborate with high-impact teams.
-- 📍 Location: **Morocco**.
+- 4th-Year Software Engineering Student (Master 1 level / Cycle Ingénieur).
+- Focus areas: Artificial Intelligence & Data Science (Generative AI, MLOps, Multi-Agent Systems) and Cybersecurity & Networks (Ethical Hacking, Network Security, Applied Cryptography).
+- Solid engineering foundations in computer science, software design patterns, systems architecture, and algorithms.
+- Proven track record building full-stack web platforms, desktop management software, and AI-assisted workflows.
+- Seeking an engineering internship opportunity to contribute to impactful software solutions.
+- Based in Morocco.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Skills
 
-#### 💻 Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-#### 🌐 Frameworks & Full-Stack Development
+#### Web & Full-Stack Development
 <p align="left">
   <img src="https://img.shields.io/badge/Django_5-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -65,28 +65,28 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-#### 🤖 Artificial Intelligence & Data Science
+#### Artificial Intelligence & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative_AI_%26_LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI & LLMs" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00A67E?style=flat-square&logo=robot&logoColor=white" alt="Multi-Agent Systems" />
-  <img src="https://img.shields.io/badge/NLP_%26_Computer_Vision-1E88E5?style=flat-square&logo=google&logoColor=white" alt="NLP & CV" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00A67E?style=flat-square" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/NLP_%26_Computer_Vision-1E88E5?style=flat-square" alt="NLP & CV" />
   <img src="https://img.shields.io/badge/MLOps-017CEE?style=flat-square&logo=googlecloud&logoColor=white" alt="MLOps" />
   <img src="https://img.shields.io/badge/Big_Data-E25A1C?style=flat-square&logo=apache&logoColor=white" alt="Big Data" />
 </p>
 
-#### 🛡️ Cybersecurity & Networks
+#### Cybersecurity & Networks
 <p align="left">
   <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat-square&logo=kalilinux&logoColor=white" alt="Ethical Hacking" />
   <img src="https://img.shields.io/badge/Network_Security_%26_VPN-2496ED?style=flat-square&logo=wireguard&logoColor=white" alt="Network Security" />
   <img src="https://img.shields.io/badge/TCP%2FIP_Protocols-005571?style=flat-square&logo=wireshark&logoColor=white" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/Digital_Forensics-D32F2F?style=flat-square&logo=security&logoColor=white" alt="Forensics" />
+  <img src="https://img.shields.io/badge/Digital_Forensics-D32F2F?style=flat-square" alt="Forensics" />
   <img src="https://img.shields.io/badge/Cryptography_%26_Blockchain-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/AI_Threat_Detection-6A1B9A?style=flat-square&logo=shield&logoColor=white" alt="AI Threat Detection" />
+  <img src="https://img.shields.io/badge/AI_Threat_Detection-6A1B9A?style=flat-square" alt="AI Threat Detection" />
 </p>
 
-#### 🗄️ Databases & Storage
+#### Databases & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
@@ -96,21 +96,21 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-#### ⚙️ DevOps, Systems & Methodologies
+#### Systems, DevOps & Methodologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux_%2F_Unix-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux / Unix" />
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/CI%2FCD_%26_DevOps-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Agile_%2F_Scrum-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/UML_%26_OOP-2C3E50?style=flat-square" alt="UML" />
+  <img src="https://img.shields.io/badge/UML_%26_Design_Patterns-2C3E50?style=flat-square" alt="UML" />
   <img src="https://img.shields.io/badge/ITIL_%26_PMP-007A87?style=flat-square" alt="Management" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
@@ -125,17 +125,17 @@
 
 ---
 
-### 📜 Certifications & Achievements
+### Certifications
 
-- 🏅 **Software Engineering: Software Design & Project Management** — *HKUST / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/HB4PQXRBT370)
-- 🏅 **Using Python to Access Web Data** — *University of Michigan / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/WE31CRM841X9)
-- 🏅 **JavaScript, jQuery, and JSON** — *University of Michigan / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/NULW1KR5TOUX)
-- 🏅 **Introduction à la Programmation Orientée Objet (en C++)** — *EPFL / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/8Q88LUF16W52)
-- 🏅 **Python Pour Tous** — *LinkedIn Learning* · [Verify Credential](https://www.linkedin.com/learning/certificates/3dd203684648ae5c54b991fd89a90ffd288a2a45a3ed9bb3923859f6e16f8351)
+- **Software Engineering: Software Design & Project Management** — *HKUST / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/HB4PQXRBT370)
+- **Using Python to Access Web Data** — *University of Michigan / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/WE31CRM841X9)
+- **JavaScript, jQuery, and JSON** — *University of Michigan / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/NULW1KR5TOUX)
+- **Introduction à la Programmation Orientée Objet (en C++)** — *EPFL / Coursera* · [Verify Credential](https://www.coursera.org/account/accomplishments/verify/8Q88LUF16W52)
+- **Python Pour Tous** — *LinkedIn Learning* · [Verify Credential](https://www.linkedin.com/learning/certificates/3dd203684648ae5c54b991fd89a90ffd288a2a45a3ed9bb3923859f6e16f8351)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihadmouabbad-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jihad's GitHub Stats" />
@@ -145,9 +145,9 @@
 ---
 
 <div align="center">
-  <p>🤝 Let's connect and build something amazing together!</p>
-  <a href="https://linktr.ee/jihadmouabbad"><img src="https://img.shields.io/badge/All_Links-Linktree-43E660?style=flat-square&logo=linktree&logoColor=white" /></a>
-  <a href="https://discord.gg/ghq2nRy5Ka"><img src="https://img.shields.io/badge/Community-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jihad-mouabbad-122433225/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jihadmouabbad@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <p>Feel free to connect or collaborate:</p>
+  <a href="https://linktr.ee/jihadmouabbad"><img src="https://img.shields.io/badge/Linktree-43E660?style=flat-square&logo=linktree&logoColor=white" /></a>
+  <a href="https://discord.gg/ghq2nRy5Ka"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jihad-mouabbad-122433225/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jihadmouabbad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
